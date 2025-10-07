@@ -1,6 +1,6 @@
-# 📃 Personal Writeups
+# 💻 Personal Writeups
 
-Welcome to my collection of **TryHackMe** and **Hack The Box** writeups.
+Welcome to my collection of **TryHackMe** and **Hack The Box** writeups.  
 Each one documents my approach, tools used, and lessons learned from different machines and challenges.
 
 ---
@@ -9,9 +9,13 @@ Each one documents my approach, tools used, and lessons learned from different m
 
 | Machine | Category | Difficulty | Writeup |
 |----------|-----------|-------------|----------|
-| Bypass Disable Functions | Web | Info | <a href="THM\Info\Bypass_dissable_functions.md">Read Me</a> |
+| Bypass Disable Functions | Web | Info | <a href="THM\Info\Bypass_disable_functions.md">Read Me</a> |
 
 ## 🤖 Hack The Box Writeups
 
 | Machine | Category | Difficulty | Writeup |
 |----------|-----------|-------------|----------|
+
+## 📃 Notes
+These writeups are for **educational purposes only**.  
+All HTB writeups are for **retired machines** and no active flags or sensitive information are disclosed.
